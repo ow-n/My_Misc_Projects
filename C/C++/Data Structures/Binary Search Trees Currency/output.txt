@@ -1,0 +1,55 @@
+A program that demonstrates a Binary Search Tree Data Structure on Currency objects.
+
+Breadth-first traversal:
+57.12 Dollar 23.44 Dollar 87.43 Dollar 18.36 Dollar 44.55 Dollar 68.99 Dollar 111.22 Dollar 11.00 Dollar 20.21 Dollar 36.18 Dollar 48.48 Dollar 77.77 Dollar 101.00 Dollar 543.21 Dollar 1.00 Dollar 21.00 Dollar 51.00 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+In-order traversal:
+1.00 Dollar 11.00 Dollar 18.36 Dollar 20.21 Dollar 21.00 Dollar 23.44 Dollar 36.18 Dollar 44.55 Dollar 48.48 Dollar 51.00 Dollar 57.12 Dollar 68.99 Dollar 77.77 Dollar 87.43 Dollar 101.00 Dollar 111.22 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 
+
+Pre-order traversal:
+57.12 Dollar 23.44 Dollar 18.36 Dollar 11.00 Dollar 1.00 Dollar 20.21 Dollar 21.00 Dollar 44.55 Dollar 36.18 Dollar 48.48 Dollar 51.00 Dollar 87.43 Dollar 68.99 Dollar 77.77 Dollar 111.22 Dollar 101.00 Dollar 543.21 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+Post-order traversal:
+1.00 Dollar 11.00 Dollar 21.00 Dollar 20.21 Dollar 18.36 Dollar 36.18 Dollar 51.00 Dollar 48.48 Dollar 44.55 Dollar 23.44 Dollar 77.77 Dollar 68.99 Dollar 101.00 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 111.22 Dollar 87.43 Dollar 57.12 Dollar 
+
+Invalid value. "-123.456" Ignored.
+
+Value "123.45" inserted.
+
+Value "123.45" deleted.
+
+Value "123.45" not found. Deletion failed.
+
+Value "77.77" found.
+
+
+
+Breadth-first traversal:
+57.12 Dollar 23.44 Dollar 87.43 Dollar 18.36 Dollar 44.55 Dollar 68.99 Dollar 111.22 Dollar 11.00 Dollar 20.21 Dollar 36.18 Dollar 48.48 Dollar 77.77 Dollar 101.00 Dollar 543.21 Dollar 1.00 Dollar 21.00 Dollar 51.00 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+In-order traversal:
+1.00 Dollar 11.00 Dollar 18.36 Dollar 20.21 Dollar 21.00 Dollar 23.44 Dollar 36.18 Dollar 44.55 Dollar 48.48 Dollar 51.00 Dollar 57.12 Dollar 68.99 Dollar 77.77 Dollar 87.43 Dollar 101.00 Dollar 111.22 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 
+
+Pre-order traversal:
+57.12 Dollar 23.44 Dollar 18.36 Dollar 11.00 Dollar 1.00 Dollar 20.21 Dollar 21.00 Dollar 44.55 Dollar 36.18 Dollar 48.48 Dollar 51.00 Dollar 87.43 Dollar 68.99 Dollar 77.77 Dollar 111.22 Dollar 101.00 Dollar 543.21 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+Post-order traversal:
+1.00 Dollar 11.00 Dollar 21.00 Dollar 20.21 Dollar 18.36 Dollar 36.18 Dollar 51.00 Dollar 48.48 Dollar 44.55 Dollar 23.44 Dollar 77.77 Dollar 68.99 Dollar 101.00 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 111.22 Dollar 87.43 Dollar 57.12 Dollar 
+
+Value "1.00" deleted.
+
+
+
+Breadth-first traversal:
+57.12 Dollar 23.44 Dollar 87.43 Dollar 18.36 Dollar 44.55 Dollar 68.99 Dollar 111.22 Dollar 11.00 Dollar 20.21 Dollar 36.18 Dollar 48.48 Dollar 77.77 Dollar 101.00 Dollar 543.21 Dollar 21.00 Dollar 51.00 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+In-order traversal:
+11.00 Dollar 18.36 Dollar 20.21 Dollar 21.00 Dollar 23.44 Dollar 36.18 Dollar 44.55 Dollar 48.48 Dollar 51.00 Dollar 57.12 Dollar 68.99 Dollar 77.77 Dollar 87.43 Dollar 101.00 Dollar 111.22 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 
+
+Pre-order traversal:
+57.12 Dollar 23.44 Dollar 18.36 Dollar 11.00 Dollar 20.21 Dollar 21.00 Dollar 44.55 Dollar 36.18 Dollar 48.48 Dollar 51.00 Dollar 87.43 Dollar 68.99 Dollar 77.77 Dollar 111.22 Dollar 101.00 Dollar 543.21 Dollar 345.67 Dollar 251.00 Dollar 151.00 Dollar 
+
+Post-order traversal:
+11.00 Dollar 21.00 Dollar 20.21 Dollar 18.36 Dollar 36.18 Dollar 51.00 Dollar 48.48 Dollar 44.55 Dollar 23.44 Dollar 77.77 Dollar 68.99 Dollar 101.00 Dollar 151.00 Dollar 251.00 Dollar 345.67 Dollar 543.21 Dollar 111.22 Dollar 87.43 Dollar 57.12 Dollar 
+
+Exiting the program.

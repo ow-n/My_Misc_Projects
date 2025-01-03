@@ -1,7 +1,6 @@
 """Small-Scale Alzheimer data cleaning"""
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
-import openpyxl
 
 SEPARATOR_LINE = "=" * 82
 

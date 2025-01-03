@@ -3,7 +3,6 @@ from numpy  import *        #provides complex math and array functions
 from sklearn import svm     #provides Support Vector Regression
 import csv
 
-#Local files created by me
 import mlr
 import FromDataFileMLR
 import FromFinessFileMLR
@@ -261,6 +260,3 @@ def main():
 #------------------------------------------------------------------------------
 main()
 #------------------------------------------------------------------------------
-
-
-

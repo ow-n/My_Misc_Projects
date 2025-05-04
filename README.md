@@ -336,9 +336,9 @@
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/own_grandfather.pl">
     Own Grandfather</a></li>
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/farmer_wolf.pl">
-    Farmer Wolf</a></li>
+    Farmer, Wolf, Goat, and Cabbage</a></li>
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/knights_tour.pl">
-    Knights Tour</a></li>
+    Knight's Tour</a></li>
 </ul>
 <br><br><br>
 

@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure"></a>&nbsp;
     <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/COBOL">
     <img src="https://img.shields.io/badge/COBOL-%230059A0?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="COBOL"></a>&nbsp;
+    <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/Prolog">
+    <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white" alt="Prolog"></a>&nbsp;
     <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/Assembly">
     <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"></a>&nbsp;
   </div>
@@ -319,6 +321,24 @@
 <ul style="margin-top: -10px;">
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Cobol/Payroll_Calculator.cbl">
     Payroll Calculator</a></li>
+</ul>
+<br><br><br>
+
+
+
+<!-- PROLOG -->
+<h2><img src="icons/Prolog.svg" alt="Prolog Logo" width="20" height="20"> Prolog</h2>
+<ul style="margin-top: -10px;">
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/count_atoms.pl">
+    Count Atoms</a></li>
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/count_elements.pl">
+    Count Elements</a></li>
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/own_grandfather.pl">
+    Own Grandfather</a></li>
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/farmer_wolf.pl">
+    Farmer Wolf</a></li>
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/knights_tour.pl">
+    Knights Tour</a></li>
 </ul>
 <br><br><br>
 

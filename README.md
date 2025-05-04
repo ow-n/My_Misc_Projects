@@ -34,7 +34,7 @@
     <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/COBOL">
     <img src="https://img.shields.io/badge/COBOL-%230059A0?style=for-the-badge&logo=rhinoceros&logoColor=white" alt="COBOL"></a>&nbsp;
     <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/Prolog">
-    <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=swi-prolog&logoColor=white" alt="Prolog"></a>&nbsp;
+    <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Prolog"></a>&nbsp;
     <a href="https://github.com/ow-n/My_Misc_Projects/tree/main/Assembly">
     <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"></a>&nbsp;
   </div>
@@ -327,7 +327,7 @@
 
 
 <!-- PROLOG -->
-<h2><img src="icons/Prolog.svg" alt="Prolog Logo" width="20" height="20"> Prolog</h2>
+<h2><img src="icons/SWIProlog.svg" alt="Prolog Logo" width="20" height="20"> Prolog</h2>
 <ul style="margin-top: -10px;">
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/count_atoms.pl">
     Count Atoms</a></li>

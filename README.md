@@ -327,7 +327,7 @@
 
 
 <!-- PROLOG -->
-<h2><img src="icons/SWIProlog.svg" alt="Prolog Logo" width="20" height="20"> Prolog</h2>
+<h2><img src="icons/SWIProlog_white.svg" alt="Prolog Logo" width="20" height="20"> Prolog</h2>
 <ul style="margin-top: -10px;">
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/count_atoms.pl">
     Count Atoms</a></li>

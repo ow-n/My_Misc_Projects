@@ -339,6 +339,8 @@
     Farmer, Wolf, Goat, and Cabbage</a></li>
   <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/knights_tour.pl">
     Knight's Tour</a></li>
+  <li><a href="https://github.com/ow-n/My_Misc_Projects/blob/main/Prolog/expertsystemshell_gym.pl">
+    Expert System Shell - Gym Coach</a></li>
 </ul>
 <br><br><br>
 
